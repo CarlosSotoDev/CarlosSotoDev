@@ -33,7 +33,7 @@ Language / IDE / Frameworks | <p align="center"><a href="https://skillicons.dev"
 Tools                    | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman,vscode,tailwind,sublime,scss,powershell,obsidian,git,github,figma,docker,css,bootstrap" /></a></p>
 Storage / FrontEnd       | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,angular,react" /></a></p>
 
-<br><br>
+<br>
 
 <h2><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> SOME OF MY BEST PROJECTS</h2>
 
