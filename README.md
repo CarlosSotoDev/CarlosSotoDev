@@ -12,7 +12,9 @@
 
 <picture><img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500"></picture>
 
-Web Developer with expertise in Front-End technologies such as Angular and React, as well as knowledge in desktop development languages like Java and C#. Experienced Database Manager, Systems Analyst, and Technical Support Specialist with five years of experience. Also possesses basic knowledge in Back-End development and version control using GitHub.
+Software Engineer and Backend Developer with expertise in microservices architecture and database
+management (MySQL, MongoDB). Experienced in system design, optimization, and technical support, with
+basic knowledge of front-end technologies like Angular and React. Proficient in version control using GitHub
 
 <br>
 
