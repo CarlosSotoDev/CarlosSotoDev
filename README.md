@@ -6,7 +6,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-<h3 align="center">Fullstack Developer Jr | Systems Analyst | Database Manager</h3>
+<h3 align="center">Fullstack Developer Jr | Systems Analyst | Database Manager | Prompts Engineer </h3>
 
 <h2><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> ABOUT ME</h2>  
 
