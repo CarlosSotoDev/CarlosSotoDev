@@ -6,23 +6,24 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-<h3 align="center">Fullstack Developer Jr | Systems Analyst | Database Manager | Prompts Engineer </h3>
+<h3 align="center">Java Developer Sr | Systems Analyst | Database Manager | Prompts Engineer </h3>
 
 <h2><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> ABOUT ME</h2>  
 
 <picture><img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500"></picture>
 
-Software Engineer and Backend Developer with expertise in microservices architecture and database
-management (MySQL, MongoDB). Experienced in system design, optimization, and technical support, with
-basic knowledge of front-end technologies like Angular and React. Proficient in version control using GitHub
+Software Engineer and Backend Developer with expertise in microservices architecture, message queues 
+(TIBCO EMS, Kafka, RabbitMQ), and database management (PostgreSQL, MySQL, SQL Server). Experienced in 
+system design, ERP applications, and backend optimization, with knowledge of front-end technologies 
+like Angular. Proficient in version control using GitHub.
 
 <br>
 
 - :computer: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer.
-- :computer: I’m currently learning `Backend Development` and `Software Engineering`.
+- :computer: I’m currently focused on `Backend Development` and `Microservices`.
 - :computer: Always `learning new things`.
-- :computer: Do you know about Microservices? Yes, I do.
+- :computer: Do you know about Message Queues? Yes, I do.
 - :computer: The AI is the future.
 
 <br><br>
