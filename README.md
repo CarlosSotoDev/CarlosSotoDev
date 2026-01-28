@@ -51,6 +51,13 @@ Project                  | Technologies
 
 <br>
 
+<h2><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> ALL MY KNOWNMENT</h2> 
+
+<p align="center">
+🧠 <a href="https://github.com/CarlosSotoDev/My-brain"><strong>MY-BRAIN</strong></a>
+</p>
+<br>
+
 <h2><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> CONTACTME</h2>
 
 <p align="center">
