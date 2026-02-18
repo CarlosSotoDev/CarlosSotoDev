@@ -46,8 +46,16 @@ Project                  | Technologies
 [Full Stack PHP System](https://github.com/CarlosSotoDev/ProyectoResidencias) | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 [My First API](https://github.com/CarlosSotoDev/Mi-primer-API)         | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 [OOP BookingSystem](https://github.com/CarlosSotoDev/Mi-primer-API)    | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+[TESTING- KAFKA](https://github.com/CarlosSotoDev/Testing-Kafka)    | ![Spring](https://img.shields.io/badge/Spring-Boot-brightgreen?logo=springboot) ![Docker](https://img.shields.io/badge/Docker-Enabled-blue?logo=docker) ![Kafka](https://img.shields.io/badge/Kafka-Streaming-black?logo=apachekafka) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql)
 
+<br><br>
 
+<h2><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture>DOCKER IMAGES READY TO COMPILE</h2> 
+
+| DOCKER-IMAGES (LATEST VERSIONS) |
+|-------------------------------|
+| [![Kafka](https://img.shields.io/badge/Kafka-Streaming-black?logo=apachekafka)](https://github.com/CarlosSotoDev/KAFKA-DOCKERIMAGE) |
+| New images coming soon |
 
 <br>
 
