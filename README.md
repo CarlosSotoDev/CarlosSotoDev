@@ -32,9 +32,9 @@ like Angular. Proficient in version control using GitHub.
 
 Property                 | Data  
 -------------------------|------
-Language / IDE / Frameworks | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,java,php,c,ts,cs,py,spring,nodejs,matlab,html,phpstorm,idea,eclipse" /></a></p>
-Tools                    | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman,vscode,tailwind,sublime,scss,powershell,obsidian,git,github,figma,docker,css,bootstrap" /></a></p>
-Storage / FrontEnd       | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,angular,react" /></a></p>
+Language / IDE / Frameworks | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,php,cs,py,spring,nodejs,html,phpstorm,idea,maven,powershell" /></a></p>
+Tools and LLMs                   | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman,vscode,tailwind,obsidian,git,github,docker,css,bootstrap,graphql,jenkins,kubernetes" /></a></p>
+Storage / FrontEnd / Messaging      | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,angular,kafka,rabbitmq" /></a></p>
 
 <br>
 
