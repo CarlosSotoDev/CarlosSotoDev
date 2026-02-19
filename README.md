@@ -68,6 +68,14 @@ Project                  | Technologies
 </tr>
 
 <tr>
+<td align="center">
+<a href="https://github.com/CarlosSotoDev/POSTGRESQL-DOCKERIMAGE">
+<img src="https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</a>
+</td>
+</tr>
+
+<tr>
 <td align="center">New images coming soon</td>
 </tr>
 
